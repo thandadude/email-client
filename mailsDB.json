@@ -1,0 +1,31 @@
+{
+    "accounts": [
+        {
+            "address": "a@abc.com",
+            "mail": [
+                {
+                    "content": "Hello World",
+                    "date": 1575474762.689671,
+                    "sender email": "b@abc.com",
+                    "sender name": "John doe",
+                    "subject": "Hello World!",
+                    "folder": "Inbox",
+                    "read": true,
+                    "file": ""
+                }, 
+                {
+                    "content": "Sample mail....",
+                    "date": 1575473762.259641,
+                    "sender email": "c@abc.com",
+                    "sender name": "Call Saul",
+                    "subject": "Hey Saul...",
+                    "folder": "Inbox",
+                    "read": false,
+                    "file": ""
+                }
+            ],
+            "name": "Anand",
+            "surname": "Iyer"
+        }
+    ] 
+}
